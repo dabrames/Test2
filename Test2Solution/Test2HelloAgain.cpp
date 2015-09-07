@@ -2,8 +2,8 @@
 
 int main(void) {
 	using std::cout;
-	using std::cin;
-	cout << "Hello, World!" << std::endl;
-	cin.get();
+	//using std::cin;
+	cout << "Hello, World!\n";
+	system("PAUSE");
 	return 0;
 }
